@@ -1,0 +1,1 @@
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos.UWP\SearchBarDemos.UWP.csproj;x86

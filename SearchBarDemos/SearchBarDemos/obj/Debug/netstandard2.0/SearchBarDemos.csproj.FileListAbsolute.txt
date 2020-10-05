@@ -1,0 +1,17 @@
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\bin\Debug\netstandard2.0\SearchBarDemos.deps.json
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\bin\Debug\netstandard2.0\SearchBarDemos.dll
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\bin\Debug\netstandard2.0\ref\SearchBarDemos.dll
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\bin\Debug\netstandard2.0\SearchBarDemos.pdb
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarRealtimeXamlPage.xaml.g.cs
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarXamlMvvmPage.xaml.g.cs
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarXamlPage.xaml.g.cs
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarDemos.AssemblyInfoInputs.cache
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarDemos.AssemblyInfo.cs
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarDemos.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarDemos.dll
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\ref\SearchBarDemos.dll
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarDemos.pdb
+C:\Users\ScumS\Downloads\Xamarin_Forms___SearchBar_Demos\SearchBarDemos\SearchBarDemos\obj\Debug\netstandard2.0\SearchBarDemos.csprojAssemblyReference.cache

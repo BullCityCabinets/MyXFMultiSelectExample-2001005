@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3PItNQhPSNQd5qO8VERUp2rCjsWpsSfPdcsIlKYeAsiHZGWsGqP8BLQ/3mm4RFQmUxPb+0vt504wd+XSRNsrqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ScumS\\Downloads\\Xamarin_Forms___SearchBar_Demos\\SearchBarDemos\\SearchBarDemos.iOS\\SearchBarDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ScumS\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
